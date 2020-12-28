@@ -21,4 +21,4 @@ def output_array (array)
     array[count].to_s
     count += 1
   end
-end 
+end
